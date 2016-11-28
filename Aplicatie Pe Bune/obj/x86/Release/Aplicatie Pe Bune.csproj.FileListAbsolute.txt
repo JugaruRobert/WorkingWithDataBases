@@ -1,0 +1,7 @@
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\bin\Release\Aplicatie Pe Bune.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\bin\Release\Aplicatie Pe Bune.pdb
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Release\Aplicatie_Pe_Bune.Form1.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Release\Aplicatie_Pe_Bune.Properties.Resources.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Release\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Release\Aplicatie Pe Bune.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Release\Aplicatie Pe Bune.pdb

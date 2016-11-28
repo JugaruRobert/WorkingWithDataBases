@@ -1,0 +1,60 @@
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+D:\c#\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csprojResolveAssemblyReference.cache
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+C:\Users\Neghina Daniel\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe.config
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe.config
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Database1.accdb
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csprojResolveAssemblyReference.cache
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+G:\Aplicatie Pe Bune\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe.config
+C:\Users\elev\Desktop\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+C:\Users\elev\Desktop\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+C:\Users\elev\Desktop\Aplicatie Pe Bune\bin\Debug\Database1.accdb
+C:\Users\elev\Desktop\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+C:\Users\elev\Desktop\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+C:\Users\elev\Desktop\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+C:\Users\elev\Desktop\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+C:\Users\elev\Desktop\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
+F:\Aplicatie calendar\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe.config
+F:\Aplicatie calendar\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.exe
+F:\Aplicatie calendar\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.pdb
+F:\Aplicatie calendar\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.exe
+F:\Aplicatie calendar\Aplicatie Pe Bune\bin\Debug\Aplicatie Pe Bune.pdb
+F:\Aplicatie calendar\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csprojResolveAssemblyReference.cache
+F:\Aplicatie calendar\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Form1.resources
+F:\Aplicatie calendar\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie_Pe_Bune.Properties.Resources.resources
+F:\Aplicatie calendar\Aplicatie Pe Bune\obj\x86\Debug\Aplicatie Pe Bune.csproj.GenerateResource.Cache
